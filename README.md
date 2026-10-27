@@ -32,37 +32,25 @@
 
 ## 💫 About Me
 
-<img align="right" width="155" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
 
-```python
-class Axadillo:
-    def __init__(self):
-        self.name = "Axadillo Abduvoitov"
-        self.role = "Student Developer"
-        self.languages = ["Python", "JavaScript"]
-        self.frontend = ["HTML", "CSS", "JavaScript"]
-        self.backend = ["Python", "Django"]
-        self.interests = [
-            "Web Development",
-            "Telegram Bots",
-            "Creative Projects"
-        ]
-        self.motto = "Dream. Code. Create."
+<img src="https://img.shields.io/badge/ROLE-Student%20Developer-7B2CBF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-Web%20Development-C77DFF?style=for-the-badge" />
 
-    def ambition(self):
-        return "Build software that matters."
+</div>
 
-me = Axadillo()
-```
+- 💜 I'm Axadillo Abduvoitov, a student developer passionate about technology.
+- 🎨 I enjoy creating modern websites with clean UI and smooth animations.
+- 🐍 I work with Python and build Telegram bots.
+- ⚙️ I'm currently learning Django and backend development.
+- 🌍 I'm improving my English and programming skills every day.
+- 🚀 My ambition is to build useful software and become a great engineer.
 
-- 💜 Passionate about creating modern digital experiences.
-- 🎨 Interested in clean UI, smooth animations and creative design.
-- 🐍 Building Python projects and Telegram bots.
-- ⚙️ Learning Django and backend development.
-- 🌍 Improving my English and programming skills.
-- 🚀 Big dream: become an excellent software engineer.
+<div align="center">
 
-<br clear="right"/>
+**DREAM · CODE · CREATE**
+
+</div>
 
 ---
 
@@ -91,34 +79,30 @@ me = Axadillo()
 <div align="center">
 
 <a href="https://github.com/axadilloabduvoitov">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=axadilloabduvoitov&show_icons=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&ring_color=7B2CBF&rank_icon=github" alt="Axadillo's GitHub stats" />
-</a>
-
-<a href="https://github.com/axadilloabduvoitov">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axadilloabduvoitov&layout=compact&langs_count=8&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=axadilloabduvoitov&show_icons=true&hide_border=true&bg_color=0D0221&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&ring_color=7B2CBF&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+</a><a href="https://github.com/axadilloabduvoitov">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axadilloabduvoitov&layout=compact&langs_count=6&hide_border=true&bg_color=0D0221&title_color=C77DFF&text_color=E0AAFF" alt="Most used languages" />
 </a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=axadilloabduvoitov&hide_border=true&background=0D0221&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D8AA8" alt="GitHub contribution streak" />
+<img width="85%" src="https://streak-stats.demolab.com?user=axadilloabduvoitov&hide_border=true&background=0D0221&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D8AA8" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
 <div align="center">
 
 <a href="https://github.com/axadilloabduvoitov?tab=repositories">
-<img src="https://img.shields.io/badge/💜_MY_REPOSITORIES-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💜_EXPLORE_MY_REPOSITORIES-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**My journey is built one project at a time.**
-
-Explore my repositories to discover what I'm building and learning.
+*Every project is another step forward.*
 
 </div>
 
@@ -141,9 +125,7 @@ Explore my repositories to discover what I'm building and learning.
 
 ### 💜 Thanks for visiting my profile!
 
-*“Great things are built one line of code at a time.”*
-
-<br/>
+*Great things are built one line of code at a time.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,40:7B2CBF,75:240046,100:090014&height=150&section=footer" width="100%" />
 
